@@ -1,1 +1,2 @@
-create sample project 
+print f" hello worled"
+system.out.println"helooooo"
